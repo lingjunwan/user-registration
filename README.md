@@ -1,4 +1,4 @@
-# user-registration
+# user-registration app
  [PHP] web application to register a user based on validation constraints and then save the collected information into a file.  
  Practice from <a href url= "https://continuingeducation.johnabbott.qc.ca/programs/full-stack-developer/"> Full-Stack Developer Web Development I.420-WE6-AB</a>.  
  ***
